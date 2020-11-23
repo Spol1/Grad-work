@@ -1,0 +1,63 @@
+Rally,Rallye
+in,im
+civil,bürgerlich
+war,Krieg
+Бильд,Bild
+Внутренний,Innere
+документ,Dokument
+говорит,Er spricht,spricht
+что,Was
+Германия,Deutschland
+примет,wird akzeptieren,akzeptieren
+млн,Million
+беженцев,Flüchtlinge
+в,im
+этом,Dies
+году,Jahr
+РФ,RF
+Сирии,syrisch,Syrien
+вынудили,gezwungen
+тунисских,Tunesisch
+боевиков,Militante
+бежать,Renn weg
+launch,starten
+campaigns,Kampagnen
+fund,Fonds
+relief,Linderung
+boy,Junge
+has,hat
+died,gestorben
+to,zu
+coordinate,Koordinate
+anti,Gegen
+actions,Aktionen
+Greek,griechisch
+photojournalist,Fotojournalist
+Kill,Töten
+TOP,oben
+Iranian,iranisch
+Syrian,syrisch,Syrien
+urged,gedrängt
+to,zu
+ensure,dafür sorgen
+vulnerable,anfällig
+refugees,Flüchtling,Flüchtlinge
+are,sind
+settled,erledigt
+by,durch
+winter,
+Russia,Russland
+US,Amerika
+air,Luft
+dropped,fallen gelassen
+tons,Tonnen
+of,von
+Ammo,Munition
+on,auf
+The,Das
+European,europäisch
+Refugee,Flüchtling,Flüchtlinge
+Crisis,Krise
+and,und
+Syria,syrisch,Syrien
+Explained,Erklärt
